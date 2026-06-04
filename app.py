@@ -1,8 +1,3 @@
----
-
-### 4. `app.py`
-
-```python
 import modal
 
 APP_NAME = "facefusion"
